@@ -1,0 +1,6 @@
+framework module Templator {
+  umbrella header "Templator-umbrella.h"
+
+  export *
+  module * { export * }
+}
